@@ -1,9 +1,9 @@
-import Button from "./components/button";
-import ButtonIcon from "./components/button-icon";
 import ChevronLeftIcon from "./assets/icons/chevron-left.svg?react";
 import ChevronRightIcon from "./assets/icons/chevron-right.svg?react";
-import Badge from "./components/badge";
 import Alert from "./components/alert";
+import Badge from "./components/badge";
+import Button from "./components/button";
+import ButtonIcon from "./components/button-icon";
 import Divider from "./components/divider";
 
 export default function App() {
