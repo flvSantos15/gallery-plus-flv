@@ -51,7 +51,7 @@ interface InputTextProps extends VariantProps<typeof inputTextWrapperVariants>, 
   error?: React.ReactNode
 }
 
-export default function InputText({
+export function InputText({
   size,
   disabled,
   className,
